@@ -1,0 +1,1 @@
+java -Djavax.net.ssl.keyStore=mysocket.jks -Djavax.net.ssl.keyStorePassword=mysocket socketServer
